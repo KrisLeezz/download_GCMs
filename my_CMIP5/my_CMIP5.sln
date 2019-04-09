@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "my_CMIP5", "my_CMIP5\my_CMIP5.pyproj", "{527B2468-E435-4099-92E8-4AE27B51EEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527B2468-E435-4099-92E8-4AE27B51EEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527B2468-E435-4099-92E8-4AE27B51EEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {041F6CF3-46BF-4499-BBC3-E0FC18CD32CA}
+	EndGlobalSection
+EndGlobal

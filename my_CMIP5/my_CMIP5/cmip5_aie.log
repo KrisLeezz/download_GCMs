@@ -1,0 +1,232 @@
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzzusb'
+--- BEGIN Set 1
+--- END Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rsutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rsutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rsutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rsutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- END Set 1
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk/ as 'zzusb'
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc\cmip5\data\cmip5\output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc\cmip5\data\cmip5\output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc\cmip5\data\cmip5\output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in badc\cmip5\data\cmip5\output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+      rlutcs_Amon_bcc-csm1-1_sstClim_r1i1p1_000101-003012.nc
+      Downloading/writing to cmip5_aie/sstClim/bcc-csm1-1\rlutcs_Amon_bcc-csm1-1_sstClim_r1i1p1_000101-003012.nc
+--- BEGIN Set 1
+Attempting to connect to ftp.ceda.ac.uk as 'zzusb'
+Success!
+Iterating over requested datasets...
+   1) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlutcs
+      rlutcs_Amon_bcc-csm1-1_sstClim_r1i1p1_000101-003012.nc
+      Downloading/writing to cmip5_aie/sstClim/bcc-csm1-1\rlutcs_Amon_bcc-csm1-1_sstClim_r1i1p1_000101-003012.nc
+   2) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rsutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rsutcs
+      rsutcs_Amon_bcc-csm1-1_sstClim_r1i1p1_000101-003012.nc
+      Downloading/writing to cmip5_aie/sstClim/bcc-csm1-1\rsutcs_Amon_bcc-csm1-1_sstClim_r1i1p1_000101-003012.nc
+   3) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlut', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rlut
+      rlut_Amon_bcc-csm1-1_sstClim_r1i1p1_000101-003012.nc
+      Downloading/writing to cmip5_aie/sstClim/bcc-csm1-1\rlut_Amon_bcc-csm1-1_sstClim_r1i1p1_000101-003012.nc
+   4) {'experiment': 'sstClim', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rsut', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClim\mon\atmos\Amon\r1i1p1\latest\rsut
+      rsut_Amon_bcc-csm1-1_sstClim_r1i1p1_000101-003012.nc
+      Downloading/writing to cmip5_aie/sstClim/bcc-csm1-1\rsut_Amon_bcc-csm1-1_sstClim_r1i1p1_000101-003012.nc
+   5) {'experiment': 'sstClimAerosol', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClimAerosol\mon\atmos\Amon\r1i1p1\latest\rlutcs
+      rlutcs_Amon_bcc-csm1-1_sstClimAerosol_r1i1p1_000101-003012.nc
+      Downloading/writing to cmip5_aie/sstClimAerosol/bcc-csm1-1\rlutcs_Amon_bcc-csm1-1_sstClimAerosol_r1i1p1_000101-003012.nc
+   6) {'experiment': 'sstClimAerosol', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rsutcs', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClimAerosol\mon\atmos\Amon\r1i1p1\latest\rsutcs
+      rsutcs_Amon_bcc-csm1-1_sstClimAerosol_r1i1p1_000101-003012.nc
+      Downloading/writing to cmip5_aie/sstClimAerosol/bcc-csm1-1\rsutcs_Amon_bcc-csm1-1_sstClimAerosol_r1i1p1_000101-003012.nc
+   7) {'experiment': 'sstClimAerosol', 'freq': 'mon', 'realm': 'atmos', 'cmor_table': 'Amon', 'ensemble': 'r1i1p1', 'variable': 'rlut', 'group': 'BCC', 'model': 'bcc-csm1-1'}
+      Retrieving files in /badc/cmip5/data/cmip5/output1\BCC\bcc-csm1-1\sstClimAerosol\mon\atmos\Amon\r1i1p1\latest\rlut
